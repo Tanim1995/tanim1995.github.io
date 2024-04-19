@@ -1,0 +1,76 @@
+header{
+    color: #ffffff;
+    text-align: left;
+    padding 50%: 
+}
+
+main{
+    color: aliceblue;
+}
+
+body{
+    background-color:#000000
+
+}
+#diego_head {
+    border-radius: 50%;
+    border: 5px solid #fff7f7;
+    display: block;
+    margin-left: auto;
+    margin-right: auto;
+    width: 50%;
+    transition: opacity 230ms ;
+
+  }
+h1,h2{
+    font-family: 'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif;
+    width: 50%;
+}
+a{
+font-size: large;
+color: #f3e80b;
+}
+ul,ol{
+    color: #fad2d2;
+}
+.job{
+    
+    padding-left: 1%;
+    padding-top:1%;
+    padding-right: 1%;
+    padding-bottom: 1%;
+}
+#Name {
+ 
+    -webkit-box-reflect: below 7px linear-gradient(transparent,#0004);
+
+
+    
+}
+.first{
+    background-color: #fc6331;
+    border-radius: 10;
+    border: #8041bf;
+    border-style: dotted;
+    border-width: 10px;
+}
+
+.grid-container {
+    display: grid;
+    grid-template-columns: auto auto auto;
+    background-color: #ff7700;
+    padding: 10px;
+    column-gap: 23px;
+    row-gap: 45px;
+  }
+  .grid-item {
+    background-color: rgba(249, 25, 25, 0.8);
+    border: 1px solid rgba(0, 0, 0, 0.8);
+    padding: 20px;
+    font-size: 20px;
+    text-align: center;
+  }
+.recipes{
+    text-align: center;
+    width: 100%;
+}
